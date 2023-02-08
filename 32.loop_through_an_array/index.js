@@ -7,6 +7,6 @@ for(let i = prices.length - 1; i <= 0; i-=1){
 }
 */
 
-for(let prices of prices){
-    console.log(prices);
+for(let price of prices){
+    console.log(price);
 }
